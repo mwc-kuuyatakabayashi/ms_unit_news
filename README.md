@@ -1,0 +1,2 @@
+# ms_unit_news
+モダンスタックunitのnewsをpluginをつかってnotionにまとめます
