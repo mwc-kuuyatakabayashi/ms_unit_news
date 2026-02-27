@@ -1,2 +1,6 @@
 # ms_unit_news
 モダンスタックunitのnewsをpluginをつかってnotionにまとめます
+
+archiveディレクトリにはmsニュースの過去記事をmdに起こしてます
+
+docsに入ってるmdを今回notionのdbを指定して個ページとして作成してます
